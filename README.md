@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm tired, but that's not my name.
+### My first name is Danica, but some people call me Ira.
+### I go by She/He pronouns
+### And I like to do art! 🎨👩‍🎨
 
 <!--
 **uzernameee/uzernameee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
